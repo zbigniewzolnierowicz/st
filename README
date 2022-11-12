@@ -32,3 +32,8 @@ Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
+Used patches
+------------
+
+scrollback: https://st.suckless.org/patches/scrollback/
+ligatures: https://st.suckless.org/patches/ligatures/
