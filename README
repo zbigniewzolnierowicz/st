@@ -36,3 +36,5 @@ Applied patches
 ---------------
 
 xresources: https://st.suckless.org/patches/xresources-with-reload-signal/
+scrollback: https://st.suckless.org/patches/scrollback/
+	scrollback-mouse
